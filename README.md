@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on covid-19 tracker app.
 - 🌱 I’m currently learning Android Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on projects.
+- 🤔 I’m looking for help with projects.
 - 💬 Ask me about Anything 
 - 📫 How to reach me: twitter : @saksham703 , Insta : ssaksham703
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: 
+- ⚡ Fun fact:
 -->
